@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="login">Login</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotpassword">forgot password?</string>
+    <string name="dontHaveAccount">Don\'t Have Account?</string>
+    <string name="register">Register</string>
+    <string name="accountNotRegist">Account Tidak Terdaftar!</string>
+    <string name="pleaseRegist">Silahkan Register Terlebih Dahulu!</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="aggre">Dengan Ini Saya Menyetujui Kebijakan Dan Privasi</string>
+    <string name="verifyPass">Verify Password</string>
+    <string name="email">Email</string>
+    <string name="username2">Username</string>
+    <string name="cautionSucces">Yeey, Kamu Sekarang Sudah Memiliki Akun. Silahkan Login!</string>
+    <string name="succesRegister">Berhasil Mendaftar</string>
+    <string name="descriptionImage">Image Description</string>
+    <string name="badConnection">Bad Connection</string>
+    <string name="Penerbangan">Tiket Pesawat</string>
+    <string name="Hotel">Hotel</string>
+    <string name="Kereta">Tiket Kereta</string>
+    <string name="Logout">Logout</string>
+    <string name="setting">Setting</string>
+    <string name="saveChange">Simpan Perubahan</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="nama2">Nama User</string>
+    <string name="email2">Email</string>
+    <string name="password2">Password</string>
+    <string name="Kuliner">Kuliner</string>
+    <string name="TiketBus">Tiket Bus</string>
+</resources>
